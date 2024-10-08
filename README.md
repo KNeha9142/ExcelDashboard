@@ -1,5 +1,5 @@
-# ExcelDashboard
-Hotel Bookings Analysis Dashboard This project involves creating an interactive Excel dashboard to analyze hotel bookings data. The dashboard features key performance indicators (KPIs) such as total revenue, total bookings, occupancy rate, . 
+# Hotel Bookings Analysis Dashboard
+This project involves creating an interactive Excel dashboard to analyze hotel bookings data. The dashboard features key performance indicators (KPIs) such as total revenue, total bookings, occupancy rate, . 
 It allows users to filter data using slicers, visualize trends with charts, and gain insights into hotel performance over time.
 Key features:
 
